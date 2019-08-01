@@ -180,6 +180,16 @@ Here are the steps for hierarchical clustering:
 
 ## Principal component analysis (PCA)
 
+# Computer Stuff
+
+CPU is the brain
+- Read instructions
+
+RAM is short memory
+
+
+ROM is long memory
+
 
 # Vocabulary
 ### `Classification`
